@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 
 <hr />
 
+<h1 align='center'>Hi there 👋, I'm José 🚀</h1>
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,typescript,javascript,alpinejs,css,tailwindcss,webpack,html,git,md,mysql,nginx,nodejs,regex&theme=dark" />
@@ -38,23 +41,3 @@ Here are some ideas to get you started:
 
 <hr />
 
-<img src="github-metrics.svg" style="width:100%;" alt="Metrics">
-
-<!--<p align="center">
-  <a href="https://raw.githubusercontent.com/marcreichel/marcreichel/main/github-achievements.svg"><strong>🏆 List of achievements</strong></a>
-</p>-->
-
-<!-- https://github-readme-stats.vercel.app/api?username=marcreichel&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&cache_seconds=1800 -->
-
-<!--
-         @marcreichel's 2022 GitHub Skyline          
-
-                   ▁  ✧✦✧ ▁           ☽              
-       ✦    ✧      █▄ ✦✦  █  █ ✦✧ ▅       ✦         █
- ✧           ▅     ██ ✦ ▄ █  █  ✧ █                ▁█
-  ▆▄ ▂█▅   ▆▁█▄✦▃ ▅██▂▃▄█▄█  █▂▃▇▂█   ▃▅▁ ▁▃ ▁▂▁▅ ▆██
-▁▅██▆███▅██████▂█▅██████████▇██████  ▆███▇██▅████████
-████████████████████████████████████▅████████████████
-
-     https://skyline.github.com/marcreichel/2022     
--->
