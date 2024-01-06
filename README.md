@@ -6,12 +6,15 @@
 
 <hr />
 
-<h1 align='center'>Hi there 👋, I'm José 🚀</h1>
+<h1 align='center'>Hi there 👋, I'm José</h1>
 
+<p align='center'>
+Welcome to my code corner. I'm a passionate Software Engineer 🚀, with a focus on innovation, particularly in web development with an emphasis on frontend and backend. This repository is a space where I share my projects and explorations as I navigate the waters of web 3.0.
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,typescript,javascript,alpinejs,css,tailwindcss,webpack,html,git,md,mysql,nginx,nodejs,regex&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=angular,html,typescript,javascript,css,docker,webpack,ipfs,git,mongodb,sql,nginx,nodejs,solidity&theme=dark" />
   </a>
 </p>
 
