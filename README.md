@@ -12,9 +12,11 @@
 Welcome to my code corner. I'm a passionate Software Engineer 🚀, with a focus on innovation, particularly in web development with an emphasis on frontend and backend. This repository is a space where I share my projects and explorations as I navigate the waters of web 3.0.
 </p>
 
+<br />
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,html,typescript,javascript,css,docker,webpack,ipfs,git,mongodb,sql,nginx,nodejs,solidity&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=angular,html,typescript,javascript,css,docker,webpack,ipfs,git,mongodb,linux,nginx,nodejs,solidity&theme=dark" />
   </a>
 </p>
 
