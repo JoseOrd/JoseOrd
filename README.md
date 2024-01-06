@@ -22,3 +22,15 @@ Welcome to my code corner. I'm a passionate Software Engineer 🚀, with a focus
 
 <hr />
 
+## 📊 Github stats
+
+<div align="center" margin="2vh>
+
+  ![Jose Ordone's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseOrd&theme=aura_dark&show_icons=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseOrd&layout=compact)
+
+
+  
+</div>
+
+
